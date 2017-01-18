@@ -2,10 +2,36 @@
 
 body {
   font-family: "Open Sans";
+  background-color: #fbfbfb;
 }
 
 /* My standard vertical spacing classes */
 
+h1, h2, h3{
+  font-weight: lighter;
+}
+
+h4{
+  font-weight: bold;
+  color:grey;
+}
+
+p{
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+#navbarbtn{
+  color: #52aefb;
+}
+
+#middle{
+  background-color: white;
+}
+
+.list-unstyled{
+  color: grey;
+}
 .padding-inside-top-xs {
   padding-top: 10px;
 }
